@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Cloud Journey Banner" />
+  <img src="https://raw.githubusercontent.com/maahijeen/cloud-journey/main/assets/banner.svg" alt="Banner" />
 </p>
+
+
 
 ---
 
