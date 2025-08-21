@@ -1,18 +1,27 @@
-# ☁️ Cloud Journey
-
-Welcome to my **Cloud & DevOps learning journal** 🌍  
-This repo is where I document my progress, notes, and practice projects as I grow in the cloud ecosystem.  
-
----
-
-## 📖 Topics I'm Covering
-- ☁️ **AWS Fundamentals** – EC2, S3, IAM, VPC  
-- 🔹 **Azure Basics** – Resource Groups, Storage, Compute  
-- 🐳 **Docker & Kubernetes** – Containers & Orchestration  
-- ⚙️ **Terraform (IaC)** – Automating infrastructure  
-- 🚀 **CI/CD** – GitHub Actions, DevOps pipelines  
+<p align="center">
+  <img src="./assets/banner.svg" alt="Cloud Journey Banner" />
+</p>
 
 ---
 
-## 📌 Goal
-To transition from **Design → Cloud & DevOps**, building strong fundamentals and sharing my journey openly.  
+## ☁️ Cloud Journey
+My personal **Cloud & DevOps learning journal** with notes and practice.
+
+### 📘 What’s inside?
+- Notes from learning **AWS, Azure, Docker, Kubernetes**
+- Practice labs and experiments
+- Small guides and commands
+
+---
+
+### 🛠️ Tools & Tech
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+</p>
+
+### 🚀 Goal
+Document my **journey from designer → Cloud Engineer/DevOps**.
