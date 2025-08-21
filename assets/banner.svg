@@ -1,8 +1,6 @@
 <svg width="1200" height="360" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="360" fill="#ffffff"/>
   <rect x="0" y="0" width="8" height="360" fill="#2563EB"/>
-  <text x="60" y="150" font-size="42" font-weight="700" fill="#111827"
-    font-family="Inter, Segoe UI, Roboto, sans-serif">Cloud Journey</text>
-  <text x="60" y="200" font-size="22" fill="#6B7280"
-    font-family="Inter, Segoe UI, Roboto, sans-serif">My DevOps learning logs & practice</text>
+  <text x="60" y="150" font-size="42" font-weight="700" fill="#111827" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif">Cloud Journey</text>
+  <text x="60" y="200" font-size="22" fill="#6B7280" font-family="Inter, Segoe UI, Roboto, Arial, sans-serif">My DevOps learning logs & practice</text>
 </svg>
