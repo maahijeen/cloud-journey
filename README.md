@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maahijeen/cloud-journey/main/assets/banner.svg" alt="Banner" />
+  <img src="assets/banner.svg" alt="Banner" />
 </p>
+
 
 
 
